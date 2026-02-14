@@ -78,8 +78,6 @@ while True:
 <img width="474" height="186" alt="image" src="https://github.com/user-attachments/assets/bf5203f2-b139-4fc3-beec-19401e647d12" />
 <img width="511" height="186" alt="image" src="https://github.com/user-attachments/assets/6954d139-e17a-4d91-b395-e096efaf16c2" />
 
-## RESULT:
-Thus, python program to perform stop and wait protocol was successfully executed.
 
 
 ## RESULT
